@@ -1,8 +1,8 @@
-# RAFT
+# Raft
 
-A take on Google's RAFT Consensus Algorithm for distributed systems. Inspired by [MIT's 6.824](http://nil.lcs.mit.edu/6.824/2020/labs/lab-raft.html) and the [original paper](http://nil.lcs.mit.edu/6.824/2020/papers/raft-extended.pdf).
+A take on Google's Raft Consensus Algorithm for distributed systems. Inspired by [MIT's 6.824](http://nil.lcs.mit.edu/6.824/2020/labs/lab-raft.html) and the [original paper](http://nil.lcs.mit.edu/6.824/2020/papers/raft-extended.pdf).
 
-<!-->
+<!--
 
 ## Getting Started
 
@@ -39,3 +39,5 @@ $ And keep this in mind
 ## Deployment
 
 Additional notes on how to deploy this on a live or release system. Explaining the most important branches, what pipelines they trigger and how to update the database (if anything special).
+
+--->
