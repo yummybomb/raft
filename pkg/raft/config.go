@@ -21,7 +21,7 @@ import (
 	"math/big"
 	"time"
 
-	"github.com/paulniziolek/raft/pkg/rpc"
+	"github.com/yummybomb/raft/pkg/rpc"
 )
 
 func randstring(n int) string {

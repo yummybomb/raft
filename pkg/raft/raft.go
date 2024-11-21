@@ -21,7 +21,7 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"github.com/paulniziolek/raft/pkg/rpc"
+	"github.com/yummybomb/raft/pkg/rpc"
 )
 
 // import "bytes"

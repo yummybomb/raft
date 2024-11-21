@@ -59,7 +59,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/paulniziolek/raft/pkg/rpc/gob"
+	"github.com/yummybomb/raft/pkg/rpc/gob"
 )
 
 type reqMsg struct {

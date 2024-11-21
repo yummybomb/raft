@@ -1,3 +1,3 @@
-module github.com/paulniziolek/raft
+module github.com/yummybomb/raft
 
-go 1.23.1
+go 1.23.3
